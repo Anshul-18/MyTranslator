@@ -1,7 +1,7 @@
 # Translator App
 
 ![App Screenshot](android/screenshots/app_ui.jpg)
-*Add your app screenshot here*
+
 
 ## Overview
 
