@@ -2,6 +2,22 @@
 
 ![App Screenshot](android/screenshots/app_ui.jpg)
 
+## 📥 Quick Install
+
+**Want to try the app right away?**
+
+Download the latest APK file and install it directly on your Android device:
+
+👉 [Download APK](https://github.com/yourusername/translator_app/releases/latest/download/app-release.apk)
+
+**Installation Steps:**
+1. Download the APK file from the link above
+2. Enable "Install from Unknown Sources" in your Android settings
+3. Open the downloaded APK file
+4. Follow the installation prompts
+5. Launch the app and start translating!
+
+---
 
 ## Overview
 
@@ -86,3 +102,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For any queries or suggestions, please open an issue in the repository.
+
+## For Developers
+
+If you want to build from source or contribute to the project, follow the instructions below.
