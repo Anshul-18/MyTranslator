@@ -8,7 +8,7 @@
 
 Download the latest APK file and install it directly on your Android device:
 
-👉 [Download APK](https://github.com/Anshul-18/translator_app/app-release.apk)
+👉 [Download APK](https://github.com/Anshul-18/app-release.apk)
 
 **Installation Steps:**
 1. Download the APK file from the link above
